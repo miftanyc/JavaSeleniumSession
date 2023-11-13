@@ -1,0 +1,36 @@
+✳️ For Array:
+		to find the length use a.length;
+		Here length is a predefined variable
+	
+	
+
+✳️ For String
+			to find the length use StringVariable.length();
+			Here length() is a predefined Method
+
+
+
+✳️ For ArrayList
+			to find the length use ArrayListObject.size();
+			Here size() is a predefined Method
+		
+		
+		
+
+
+✳️ Object CANNOT be created for Abstract Classes and Interface
+			but object created for a class which can be assigned to Abstract classes and Interface
+			[Object of Child Class Assigned to Parent Class]
+			
+			[List<Integer> list = new ArrayList<Integer>()]	
+			Here List is Interface and ArrayList is Class	
+			
+			
+
+			
+✳️ 		ArrayList					vs				HashSet
+	⏹️Stored & Printed in Order					Object Stored in Random order
+	⏹️Has Index									No Index
+		can use For Loop								Can't Use For Loop
+		Can Use For-each Loop							Only Use For-each Loop
+		.get(Index) work								.get(Index) not work as no index
